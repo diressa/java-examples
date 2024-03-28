@@ -1,9 +1,8 @@
 /**
  * 
- * Programming II (CSCI 185-M01) Fall 2021
- * Name: Beza Nigatu
+ * Created By: Beza Nigatu
  * Module 1: toString and Copy Constructor Lab
- * 2 October 2021
+ * October 2, 2021
  *
  **/
 public class Professor {
@@ -50,7 +49,6 @@ public class Professor {
 				"\nYears served in profession: " + this.year_in_profession;
 	}
 }
-
 
 /**
  * Design a Java class named Professor to represent a professor. 
