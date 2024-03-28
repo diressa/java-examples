@@ -20,25 +20,25 @@ public class Person{
 		this.alive = alive;
 	}
 
-	//Copy constuctor:
+	//Copy constructor:
 	Person(Person twin){
+		//Error checking if person copy is null:
+		if (twin == null){
+			System.out.println("Error, null object");
+			System.exit(0);
+		}
+		
 		this.name = twin.name;
 		this.age = twin.age;
 		this.ssn = twin.ssn;
 		this.alive = twin.alive;
-
-		//Error check:
-		if (twin == null){
-			System.out.println("Error");
-			System.exit(0);
-		}
 	}	
 
 	//Set methods:
 	public void setName(String name){this.name = name;}
 	public void setAge(int age){this.age = age;}
 	public void setSSN(String ssn){this.ssn = ssn;}
-	public void setAlive(){this.alive= alive;}
+	public void setAlive(boolean alive){this.alive = alive;}
 
 	//Get methods:
 	public String getName(){return name;}
