@@ -1,0 +1,75 @@
+
+
+Galaxy Information:
+
+Name: Milky Way
+# of Stars, in billions: 400
+Diameter, in lightyears: 100000.0
+
+
+Stars within galaxy constellation:
+
+Name: Sun
+Diameter, in kilometres: 1390000.0
+Age, in billions: 4.6
+Surface Temperature in kelvins: 15700000
+
+Name: Sirius B
+Diameter, in kilometres: 12000.0
+Age, in billions: 0.23
+Surface Temperature in kelvins: 25200
+
+Name: Canopus
+Diameter, in kilometres: 9.9E7
+Age, in billions: 0.025
+Surface Temperature in kelvins: 7400
+
+
+Galaxy Information:
+
+Name: Androdema
+# of Stars, in billions: 1000
+Diameter, in lightyears: 220000.0
+
+
+Stars within galaxy constellation:
+
+Name: Alpheratz (Alpha Andromedae)
+Diameter, in kilometres: 1.22E7
+Age, in billions: 1.0
+Surface Temperature in kelvins: 12000
+
+Name: Mirach (Beta Andromedae)
+Diameter, in kilometres: 7.0E7
+Age, in billions: 3.0
+Surface Temperature in kelvins: 4500
+
+Name: Almach A (Gamma Andromedae)
+Diameter, in kilometres: 6.3E7
+Age, in billions: 1.0
+Surface Temperature in kelvins: 5200
+
+
+Galaxy Information:
+
+Name: Whirlpool
+# of Stars, in billions: 5000000
+Diameter, in lightyears: 76000.0
+
+
+Stars within galaxy constellation:
+
+Name: Cor Caroli (Alpha Canum Venaticorum)
+Diameter, in kilometres: 1.22E7
+Age, in billions: 1.5
+Surface Temperature in kelvins: 7500
+
+Name: Chara (Beta Canum Venaticorum)
+Diameter, in kilometres: 7.0E7
+Age, in billions: 2.5
+Surface Temperature in kelvins: 6000
+
+Name: La Superba (Y Canum Venaticorum)
+Diameter, in kilometres: 6.3E7
+Age, in billions: 0.85
+Surface Temperature in kelvins: 2800
